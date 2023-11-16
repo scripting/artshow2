@@ -1,0 +1,63 @@
+body {
+	background-color: whitesmoke;
+	font-family: Ubuntu;
+	font-size: 18px;
+	line-height: 140%;
+	}
+.divPageBody {
+	width: 800px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 400px;
+	}
+.divPausedMessage {
+	height: 1.5em; 
+	}
+
+.divXmlLink a {
+	text-decoration: none;
+	}
+.divXmlIcon:hover {
+	background-color: darkorange;
+	}
+.divXmlIcon a {
+	text-decoration: none;
+	}
+.divXmlIcon {
+	color: white;
+	font-size: 11px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: -3px;
+	background-color: orange;
+	border: 1px solid darkorange;
+	width: 36px;
+	margin-bottom: 25px;
+	}
+.spFeedTitle {
+	font-size: 36px;
+	}
+.imgArtImage {
+	width: 550px;
+	}
+.divColumnWrapper {
+	display: table;
+	width: 715px; 
+	border-collapse: separate; 
+	border-spacing: 5px 0;
+	}
+.divOutlineColumn {
+	display: table-cell;
+	width: 165px;
+	vertical-align: top;
+	margin-right: 5px;
+	}
+.divOutliner {
+	background-color: inherit;
+	}
+.divImageColumn {
+	display: table-cell;
+	width: 550px;
+	min-height: 1200px;
+	}
