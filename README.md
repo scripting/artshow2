@@ -1,6 +1,6 @@
 # artshow2
 
-A <a href="http://artshow2.scripting.com/">new version</a> of the Artshow app that builds on Bluesky RSS 2.0 feeds. 
+A <a href="https://artshow2.scripting.com/">new version</a> of the Artshow app that builds on Bluesky RSS 2.0 feeds. 
 
 ### More info
 
